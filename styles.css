@@ -1,7 +1,7 @@
 body {
-    background-color: #FFFDF7;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
+  background-color: #FFFDF7;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
 }
 
 .topnav {
@@ -29,25 +29,29 @@ body {
 }
 
 .central-div {
-    margin: auto;
-    width: 60%;
-    padding: 20px;
+  margin: auto;
+  width: 60%;
+  padding: 20px;
+}
+
+h4 {
+  margin-top: -20px;
 }
 
 .column {
-    float: left;
+  float: left;
 }
 
 .left {
-    width: 75%;
+  width: 75%;
 }
 
 .right {
-    width: 25%;
+  width: 25%;
 }
 
 img {
-    width: 150px;
-    height: auto;
-    padding-bottom: 10px;
+  width: 150px;
+  height: auto;
+  padding-bottom: 10px;
 }
